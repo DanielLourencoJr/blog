@@ -1,4 +1,4 @@
-baseURL = 'https://daniellourenco.site/'
+baseURL = 'https://daniellourencojr.github.io/blog/'
 locale = 'pt_br'
 title = 'Daniel L. Jr.'
 theme = "flavor"

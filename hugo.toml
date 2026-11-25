@@ -4,4 +4,5 @@ title = 'Daniel L. Jr.'
 theme = "flavor"
 
 [params.typewriter]
-  slogans = []
+  # Single blank slogan: the theme falls back to its defaults on an empty list.
+  slogans = [" "]

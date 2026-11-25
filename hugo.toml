@@ -2,3 +2,6 @@ baseURL = 'https://daniellourencojr.github.io/blog/'
 locale = 'pt_br'
 title = 'Daniel L. Jr.'
 theme = "flavor"
+
+[params.typewriter]
+  slogans = []

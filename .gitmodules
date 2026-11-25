@@ -1,0 +1,34 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/gohugo-ananke/ananke
+[submodule "themes/diary"]
+	path = themes/diary
+	url = https://github.com/AmazingRise/hugo-theme-diary.git
+[submodule "themes/reimu"]
+	path = themes/reimu
+	url = https://github.com/D-Sketon/hugo-theme-reimu.git
+[submodule "themes/yinyang"]
+	path = themes/yinyang
+	url = https://github.com/joway/hugo-theme-yinyang.git
+[submodule "themes/zen"]
+	path = themes/zen
+	url = https://github.com/frjo/hugo-theme-zen.git
+[submodule "themes/hugo-bearcub"]
+	path = themes/hugo-bearcub
+	url = https://github.com/clente/hugo-bearcub
+[submodule "themes/shibui"]
+	path = themes/shibui
+	url = https://github.com/ntk148v/shibui.git
+[submodule "themes/rusty-typewriter"]
+	path = themes/rusty-typewriter
+	url = https://github.com/math-queiroz/rusty-typewriter.git
+[submodule "themes/dario"]
+	path = themes/dario
+	url = https://github.com/GrantBirki/dario.git
+[submodule "themes/flavor"]
+	path = themes/flavor
+	url = https://github.com/baozongwi/flavor.git
+	branch = main
+[submodule "themes/chicago7"]
+	path = themes/chicago7
+	url = https://github.com/akopdev/hugo-theme-chicago7.git

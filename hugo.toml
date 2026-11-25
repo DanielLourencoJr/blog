@@ -1,0 +1,4 @@
+baseURL = 'https://daniellourenco.site/'
+locale = 'pt_br'
+title = 'Daniel L. Jr.'
+theme = "flavor"

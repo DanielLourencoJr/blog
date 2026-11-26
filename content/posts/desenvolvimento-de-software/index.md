@@ -21,7 +21,7 @@ Desde a popularização de modelos de linguagem capazes de gerar código junto c
 Corriqueiramente o que me acontece é:
 
 1. Tenho uma ideia de projeto.
-2. Faço um protótipo com rápido com IA.
+2. Faço um protótipo rápido com IA.
 3. Dou um passo para trás e analiso as decisões da IA para resolver o problema.
 4. Concluo que analisar o resultado e tocar o projeto com minhas próprias pernas demoraria mais que o meu entusiasmo.
 5. Continuo com a IA.

@@ -3,6 +3,10 @@ title: 'O Limite da Computação'
 date: '2025-12-14T11:01:00-03:00'
 draft: false
 description: 'O desenvolvimento tecnológico não é perpétuo sem uma revolução de arquitetura.'
+tags:
+  - computação
+  - hardware
+  - física
 ---
 
 Pensei em escrever esse texto por causa da explosão das LLMs (sei que você não aguenta mais falar disso, mas tenha calma) e por uma reflexão aleatória sobre o boom populacional da humanidade nos últimos séculos devido à urbanização, indústria e revolução verde.

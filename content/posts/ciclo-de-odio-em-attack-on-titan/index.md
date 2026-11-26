@@ -2,6 +2,10 @@
 title: 'Ciclo de Ódio em Attack On Titan'
 date: '2026-03-23T14:01:19-03:00'
 draft: false
+tags:
+  - attack-on-titan
+  - anime
+  - política
 ---
 
 Há cerca de 100 anos surgiram os titãs, seres humanoides variando entre 3 e 15 metros de altura, o que causou a quase extinção da humanidade. Ou pelo menos era isso que pensávamos até o fim da terceira temporada do anime.

@@ -3,6 +3,11 @@ title: 'Carteiras Bitcoin'
 date: '2026-02-23T14:11:38-03:00'
 draft: false
 description: 'Afinal, o que são as 12 palavras mágicas?'
+tags:
+  - bitcoin
+  - blockchain
+  - segurança
+  - auto-custódia
 ---
 
 O Bitcoin funciona à base de *Chaves Públicas(PubKey)* e *Chaves Privadas(PrivKey)*. Você recebe em um endereço, usa a *Chave Privada* para assinar uma transação gastando os bitcoins naquele endereço e a *Chave Pública* é usada para provar que a assinatura é realmente válida. Porém isso é uma simplificação. Não existem bitcoins naquele endereço.

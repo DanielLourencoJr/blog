@@ -2,6 +2,11 @@
 title: 'Como o Substack Funciona?'
 date: '2026-07-07T07:48:54-03:00'
 draft: false
+tags:
+  - substack
+  - api
+  - programação
+  - engenharia-reversa
 ---
 
 ---

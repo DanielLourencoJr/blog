@@ -3,6 +3,11 @@ title: 'Direita'
 date: '2026-05-19T11:34:43-03:00'
 draft: false
 description: 'Como política é irrelevante para o brasileiro médio, mas não da forma que você acha.'
+tags:
+  - política
+  - brasil
+  - eleições
+  - conservadorismo
 ---
 
 Esse texto é só minha tentativa de extravasar algo que considero óbvio, mas totalmente inexistente no pensamento do meu círculo social mais próximo.

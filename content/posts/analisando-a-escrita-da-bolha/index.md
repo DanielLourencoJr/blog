@@ -2,6 +2,11 @@
 title: 'Analisando a escrita da Bolha'
 date: '2026-09-01T13:40:16-03:00'
 draft: false
+tags:
+  - substack
+  - inteligência-artificial
+  - deepseek
+  - opencode
 ---
 
 Esse é um texto diferente dos que eu costumo escrever. A ideia surgiu da discussão sobre a escrita do Sir Richard, que acompanhei pelo Volume 4 do Jornal da Bolha.

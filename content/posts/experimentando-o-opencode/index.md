@@ -2,6 +2,12 @@
 title: 'Experimentando o OpenCode'
 date: '2026-04-27T18:41:18-03:00'
 draft: false
+tags:
+  - opencode
+  - inteligência-artificial
+  - programação
+  - open-source
+  - xadrez
 ---
 
 Todas as minhas experiências com IA até ano passado foram de pedir código avulso no *ChatGPT*. O primeiro CLI que usei foi o do *Gemini 2.5-Pro* e *2.5-Flash*. Usei em projetos pequenos e me ajudou bastante, mas não era nada impressionante. Na prática, só o Pro era útil e tinha um limite gratuito que não durava nada. Com o tempo parei de usar por que era mais rápido fazer eu mesmo — não que eu seja tão rápido ou competente assim — do que avançar o projeto concomitantemente e depois explicar o que tinha mudado e de onde continuar.

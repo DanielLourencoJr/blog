@@ -3,6 +3,10 @@ title: 'O culto à ciência'
 date: '2025-10-25T09:17:36-03:00'
 draft: false
 description: 'A nova religião da modernidade'
+tags:
+  - ciência
+  - filosofia
+  - religião
 ---
 
 A ciência é o que temos de melhor quando se trata de descrever fenômenos naturais.

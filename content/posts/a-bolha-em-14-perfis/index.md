@@ -3,6 +3,10 @@ title: 'A bolha em 14 perfis'
 date: '2026-11-17T13:37:35-03:00'
 draft: false
 description: 'Baixei 1.083 textos de 44 autores, contei o que dava para contar e pedi a um modelo que lesse o resto.'
+tags:
+  - substack
+  - comunidade
+  - inteligência-artificial
 ---
 
 Este texto começou como desculpa. No fundo eu queria praticar tratamento de dados e visualização de estatísticas, e a análise da bolha deu o corpus: grande o suficiente para valer o exercício, pequeno o suficiente para caber num projeto pessoal.

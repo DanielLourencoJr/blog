@@ -3,6 +3,11 @@ title: 'Bitcoin não é dinheiro'
 date: '2026-01-12T18:27:58-03:00'
 draft: false
 description: 'Ele é um protocolo'
+tags:
+  - bitcoin
+  - blockchain
+  - criptografia
+  - consenso
 ---
 
 O Bitcoin não é uma dinheiro eletrônico ponto a ponto. É um protocolo que busca consenso pois quer fugir do autoritarismo de qualquer instituição. E isso tem um preço.

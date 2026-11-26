@@ -3,6 +3,11 @@ title: 'Aprender inglês nunca foi tão fácil'
 date: '2026-03-10T14:01:16-03:00'
 draft: false
 description: 'Como automatizei a parte chata de aprender idiomas'
+tags:
+  - inglês
+  - aprendizado-de-idiomas
+  - anki
+  - leitura
 ---
 
 Aprender um novo idioma sempre é tratado como um bicho de sete cabeças. Eu diria que levei dois ou três anos estudando antes de me sentir confortável lendo textos quaisquer na internet.

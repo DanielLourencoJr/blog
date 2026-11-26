@@ -2,6 +2,11 @@
 title: 'Minha experiência usando OpenCode - Parte 2'
 date: '2026-09-21T14:42:45-03:00'
 draft: false
+tags:
+  - opencode
+  - tecnologia
+  - programação
+  - inteligência-artificial
 ---
 
 No texto anterior eu terminei exatamente onde todo bom projeto deveria começar: com um `git init`. Depois de quatro versões do bot, duas melhorias que não mudaram nada, uma refatoração que quebrou tudo em silêncio para 0% de vitórias e nenhum commit para voltar, eu tinha batido no limite do *MiniMax M2.5* e, para ser honesto, no meu próprio limite de desorganização.

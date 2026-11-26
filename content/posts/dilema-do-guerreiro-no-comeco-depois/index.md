@@ -2,6 +2,10 @@
 title: 'Dilema do Guerreiro no Começo Depois do Fim'
 date: '2026-04-06T14:02:50-03:00'
 draft: false
+tags:
+  - the-beginning-after-the-end
+  - anime
+  - fantasia
 ---
 
 Antes rei lutador, agora reincarnado como Arthur Leywin em um mundo fantástico com belos genes e uma família amorosa. The Beginning After The End — que chamarei de TBATE de agora em diante — conta a história de um guerreiro que abandonou todas as suas amizades e amores em busca de poder para se vingar. Que morreu afogado em um vazio imensurável após concluir seu objetivo e que nessa nova vida aprende mais uma vez o que é o amor fraterno.

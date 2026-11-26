@@ -3,6 +3,11 @@ title: 'Geradores de texto autoreplicantes'
 date: '2026-10-29T12:10:24-03:00'
 draft: false
 description: 'Avaliando quanto dano Inteligências Artificiais podem causar'
+tags:
+  - tecnologia
+  - inteligência-artificial
+  - open-weights
+  - deepseek
 ---
 
 ---

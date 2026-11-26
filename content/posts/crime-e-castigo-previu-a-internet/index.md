@@ -2,6 +2,10 @@
 title: 'Crime e Castigo previu a internet'
 date: '2026-08-05T15:12:07-03:00'
 draft: false
+tags:
+  - literatura
+  - dostoiévski
+  - internet
 ---
 
 ---

@@ -2,6 +2,11 @@
 title: 'Construí uma ferramenta para estudar inglês (de novo)'
 date: '2026-05-11T14:23:29-03:00'
 draft: false
+tags:
+  - tauri
+  - rust
+  - anki
+  - programação
 ---
 
 Já falei algumas vezes sobre como uso o Anki para aumentar o meu vocabulário e reter da melhor forma possível no aprendizado de idiomas. Também já mostrei um [website](linguamap.daniellourenco.site) que fiz eu mesmo para me ajudar a encontrar e estudar novos textos em inglês, por exemplo.

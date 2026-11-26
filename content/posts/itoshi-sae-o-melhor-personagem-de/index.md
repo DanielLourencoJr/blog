@@ -2,6 +2,9 @@
 title: 'Itoshi Sae, o melhor personagem de Blue Lock'
 date: '2026-09-28T13:15:24-03:00'
 draft: false
+tags:
+  - anime
+  - futebol
 ---
 
 Jogador japonês de futebol e membro do segundo time ou do time juvenil do Real Madrid no universo de Blue Lock, Itoshi Sae é muitas vezes retratado como um personagem arrogante e como um degrau a ser superado pelos protagonistas, especialmente por Itoshi Rin, seu irmão mais novo.

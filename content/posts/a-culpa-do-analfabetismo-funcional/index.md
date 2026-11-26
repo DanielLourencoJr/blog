@@ -2,6 +2,11 @@
 title: 'A Culpa do Analfabetismo Funcional é da Matemática'
 date: '2026-03-16T14:02:32-03:00'
 draft: false
+tags:
+  - matemática
+  - educação
+  - raciocínio-lógico
+  - enem
 ---
 
 O maior erro quando tratam desse tema é atribuir a dificuldade de interpretar textos ao ensino da linguagem e da literatura.

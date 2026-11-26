@@ -3,6 +3,11 @@ title: 'Uma lição sobre processadores e engenharia'
 date: '2025-12-29T09:12:50-03:00'
 draft: false
 description: 'Não existe almoço grátis, sempre existe um efeito colateral ou letrinha miúda.'
+tags:
+  - programação
+  - algoritmos
+  - estruturas-de-dados
+  - processadores
 ---
 
 Na faculdade tenho uma matéria chamada Estruturas de Dados onde aprendemos diversas formas de organizar os dados para que o computador possa usá-los de forma eficiente.

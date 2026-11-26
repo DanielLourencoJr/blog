@@ -3,6 +3,11 @@ title: 'Criptografia de Curva Elíptica'
 date: '2026-01-26T17:09:03-03:00'
 draft: false
 description: 'E como ela carrega o Bitcoin nas costas'
+tags:
+  - bitcoin
+  - criptografia
+  - matemática
+  - blockchain
 ---
 
 Chaves Públicas e Privadas são o coração do Bitcoin. Bitcoins são propriedades de Chaves Públicas, que exercem essa propriedade assinando transações para outras chaves. Essas assinaturas, por sua vez, dependem da Chave Privada.

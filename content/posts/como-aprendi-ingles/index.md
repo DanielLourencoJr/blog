@@ -2,6 +2,11 @@
 title: 'Como aprendi inglês'
 date: '2025-12-22T08:39:11-03:00'
 draft: false
+tags:
+  - inglês
+  - aprendizado-de-idiomas
+  - anki
+  - mangá
 ---
 
 Aprender uma nova língua é algo que não acontece frequentemente nem da noite para o dia, mas é resultado de anos de aperfeiçoamento contínuo.

@@ -3,6 +3,11 @@ title: 'A Próxima Camada de Abstração'
 date: '2026-02-09T13:06:51-03:00'
 draft: false
 description: 'Como LLMs são melhor compreendidas como compressão de conhecimento'
+tags:
+  - inteligência-artificial
+  - llms
+  - abstração
+  - conhecimento
 ---
 
 ### Escrita

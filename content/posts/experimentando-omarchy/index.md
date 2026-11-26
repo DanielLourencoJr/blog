@@ -2,6 +2,12 @@
 title: 'Experimentando Omarchy'
 date: '2026-11-11T06:50:20-03:00'
 draft: false
+tags:
+  - omarchy
+  - sistemas-operacionais
+  - firmware
+  - open-source
+  - tecnologia
 ---
 
 Aqui eu vou relatar a instalação, o uso e as minhas impressões sobre Omarchy, um sistema operacional baseado em Arch Linux.

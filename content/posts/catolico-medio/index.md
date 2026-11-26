@@ -2,6 +2,10 @@
 title: 'Católico Médio'
 date: '2025-10-09T13:09:08-03:00'
 draft: false
+tags:
+  - catolicismo
+  - teologia
+  - religião
 ---
 
 Se você está a tempo suficiente na internet, já deve ter se deparado com discussões sobre religião, principalmente entre cristãos vs ateus. Eu costumava me envolver um pouco em discussões sobre o tema, mas com o tempo eu cansei disso já que os argumentos sempre se baseavam em espantalhos de ambos os lados.

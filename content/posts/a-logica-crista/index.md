@@ -2,6 +2,10 @@
 title: 'A Lógica Cristã'
 date: '2026-06-01T18:01:11-03:00'
 draft: false
+tags:
+  - cristianismo
+  - teologia
+  - lógica
 ---
 
 > Deus amou tanto o mundo, que deu o seu Filho unigênito, para que não morra todo o que nele crer, mas tenha a vida eterna. De fato, Deus não enviou o seu Filho ao mundo para condenar o mundo, mas para que o mundo seja salvo por ele. Quem nele crê, não é condenado, mas quem não crê, já está condenado, porque não acreditou no nome do Filho unigênito. **(Jo 3,16-18)**

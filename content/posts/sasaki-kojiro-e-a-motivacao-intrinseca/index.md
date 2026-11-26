@@ -2,6 +2,11 @@
 title: 'Sasaki Kojiro e a Motivação Intrínseca'
 date: '2026-07-20T16:49:39-03:00'
 draft: false
+tags:
+  - anime
+  - shuumatsu-no-valkyrie
+  - motivação
+  - disciplina
 ---
 
 ---

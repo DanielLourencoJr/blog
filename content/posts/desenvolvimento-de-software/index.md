@@ -2,6 +2,11 @@
 title: 'Desenvolvimento de Software'
 date: '2025-10-17T18:17:42-03:00'
 draft: false
+tags:
+  - inteligência-artificial
+  - programação
+  - carreira
+  - tecnologia
 ---
 
 É bem comum na apresentação de um programador ou aspirante falar que gosta de resolver problemas complexos.

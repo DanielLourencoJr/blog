@@ -3,6 +3,11 @@ title: 'Gênese da Inovação'
 date: '2026-10-06T17:32:46-03:00'
 draft: false
 description: 'Qual o preço de criar o próprio caminho?'
+tags:
+  - política
+  - tecnologia
+  - programação
+  - inteligência-artificial
 ---
 
 Esse não é um texto político. Pelo menos não necessariamente. A capa e a introdução são apenas eu sendo honesto sobre o que me motivou a escrever isto.

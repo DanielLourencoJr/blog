@@ -3,6 +3,10 @@ title: 'Redes Neurais e o futuro das LLMs'
 date: '2026-04-21T13:29:12-03:00'
 draft: false
 description: 'Por que elas parecem tão inteligentes e por que surgiram só agora?'
+tags:
+  - inteligência-artificial
+  - redes-neurais
+  - llms
 ---
 
 Acredito que entender o que há debaixo do capô ajuda tanto no compreendimento geral — para onde estamos indo agora que a tecnologia existe — quanto para melhor proveito do que já temos. Particularmente me incomoda quando proclamam o fim dos empregos para IAs que automatizarão o trabalho ou que atingiremos a AGI[^1] em um futuro próximo sem mais dificuldades.

@@ -3,6 +3,10 @@ title: 'Neuroplasticidade'
 date: '2026-02-02T14:02:46-03:00'
 draft: false
 description: 'O que realmente muda no cérebro quando você aprende algo'
+tags:
+  - neurociência
+  - aprendizagem
+  - memória
 ---
 
 Nosso cérebro é formado por neurônios, como você provavelmente aprendeu na escola. Esses neurônios são uma espécie especial de células que usam de eletricidade para se comunicarem entre si. É bem comum usar a quantidade de neurônios como um indicador de inteligência, apesar de não ser verdade. Também é bem comum ouvir falar de neuroplasticidade, a capacidade do cérebro de mudar, mas sem mais insights úteis sobre isso. Uma **mera constatação** sobre a dinâmica biológica. Nesse texto quero elaborar alguns pensamentos sobre o funcionamento do cérebro sem me ater a detalhes químicos ou biológicos, com foco no processo de aprendizado.

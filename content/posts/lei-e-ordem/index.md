@@ -3,6 +3,10 @@ title: 'Lei e Ordem'
 date: '2026-03-02T14:02:27-03:00'
 draft: false
 description: 'O conceito político mais subestimado da era moderna'
+tags:
+  - política
+  - economia
+  - filosofia-política
 ---
 
 ### A Troca Equivalente

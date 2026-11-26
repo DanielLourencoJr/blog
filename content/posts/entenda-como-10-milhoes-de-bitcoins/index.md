@@ -3,6 +3,11 @@ title: 'Entenda como 10 milhões de bitcoins não têm dono'
 date: '2026-02-16T13:41:48-03:00'
 draft: false
 description: 'E como o SegWit causou isso'
+tags:
+  - bitcoin
+  - blockchain
+  - criptografia
+  - protocolos
 ---
 
 ### Introdução

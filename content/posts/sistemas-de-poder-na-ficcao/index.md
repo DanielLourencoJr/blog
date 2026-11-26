@@ -2,6 +2,11 @@
 title: 'Sistemas de poder na ficção'
 date: '2026-07-28T06:32:45-03:00'
 draft: false
+tags:
+  - anime
+  - mangá
+  - jogos
+  - narrativa
 ---
 
 ---

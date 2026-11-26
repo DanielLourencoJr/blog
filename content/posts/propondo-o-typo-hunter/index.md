@@ -2,6 +2,10 @@
 title: 'Propondo o TypoHunter'
 date: '2026-10-19T13:37:35-03:00'
 draft: false
+tags:
+  - tecnologia
+  - substack
+  - inteligência-artificial
 ---
 
 Há um tempo venho percebendo como erros de digitação e concordância são mais comuns do que imaginava nos meus textos. Os mais recentes receberam revisão minuciosa com auxílio de IA, mas mesmo assim era um processo trabalhoso.
@@ -62,8 +66,8 @@ Acesse por este link: [typohunter.onrender.com](https://typohunter.onrender.com/
 
 Suporte: @Daniel Lourenço
 
-Email: substack.proofreader@proton.me
+Email: <substack.proofreader@proton.me>
 
 [^1]: Private Contributor: Pode ver, editar e publicar seus posts. Não pode acessar suas configurações, estatísticas, crescimento ou receita.
-    
-    Fonte: https://support.substack.com/hc/en-us/articles/360039016832-Can-my-Substack-publication-have-multiple-authors-or-contributors
+
+    Fonte: <https://support.substack.com/hc/en-us/articles/360039016832-Can-my-Substack-publication-have-multiple-authors-or-contributors>

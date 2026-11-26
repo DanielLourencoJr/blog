@@ -3,6 +3,10 @@ title: 'Reinventando a roda na Gestão do Tempo'
 date: '2026-01-05T18:32:02-03:00'
 draft: false
 description: 'Meu sistema para... deixa pra lá. Não importa tanto'
+tags:
+  - gestão-do-tempo
+  - produtividade
+  - gamificação
 ---
 
 Durante muito tempo patinei na questão de organização da minha rotina, e percebi um certo padrão na forma como gastava meu tempo.

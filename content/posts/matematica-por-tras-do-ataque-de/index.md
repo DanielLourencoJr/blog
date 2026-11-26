@@ -3,6 +3,11 @@ title: 'Matemática por trás do Ataque de 51%'
 date: '2026-01-20T08:34:43-03:00'
 draft: false
 description: 'Don''t trust, verify'
+tags:
+  - bitcoin
+  - matemática
+  - estatística
+  - blockchain
 ---
 
 Estou terminando uma disciplina de estatística que me dá ferramentas para analisar probabilidades associadas à variáveis aleatórias com certos tipos de distribuições. Nesse texto quero aplicar esse conhecimento em um exemplo do mundo real para solidificar o meu aprendizado e trabalhar em um tema que acho interessante.

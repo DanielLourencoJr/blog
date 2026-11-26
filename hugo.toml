@@ -1,7 +1,7 @@
 baseURL = 'https://daniellourencojr.github.io/blog/'
 locale = 'pt_br'
 title = 'Daniel L. Jr.'
-theme = "flavor"
+theme = "shibui"
 
 [params.typewriter]
   # Single blank slogan: the theme falls back to its defaults on an empty list.
